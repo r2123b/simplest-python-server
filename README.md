@@ -15,3 +15,6 @@
     - wrong URL example: POST `localhost:8080/no`
         ![image](https://user-images.githubusercontent.com/4508256/110089425-117d6700-7dd1-11eb-9374-feb5d2077af4.png)
 
+## Reference
+1. [Python 3 Simple HTTPS server](https://stackoverflow.com/a/19706670/3755348)
+2. [Simple Python HTTP(S) Server - Example](https://blog.anvileight.com/posts/simple-python-http-server/#python-3-x)
